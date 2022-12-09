@@ -1,4 +1,4 @@
-# muestreo_redes_sociales
+  # Muestreo en Redes Sociales
 Repositorio de respaldo para el informe "Muestreo en redes sociales" presentado en el marco de la carrera de Sociología en la Universidad de Buenos Aires.
 
 ## MRS - construccion de red
